@@ -1,5 +1,5 @@
 //git clone 'https://github.com/TrouzerSnake/encyclopedie.git'
-
+//Connor Hyatt
 
 import 'package:flutter/material.dart';
 
@@ -24,8 +24,8 @@ class MyApp extends StatelessWidget {
 
 Column(
   children: <Widget>[
-    Text('Deliver features faster'),
-    Text('Craft beautiful UIs'),
+    Text(''),
+    Text(''),
     Expanded(
       child: FittedBox(
         fit: BoxFit.contain, // otherwise the logo will be tiny
@@ -94,5 +94,6 @@ Text(
 const Image(
   image: NetworkImage(''),
 )
+
 
 
